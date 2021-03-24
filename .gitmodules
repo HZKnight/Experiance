@@ -10,3 +10,7 @@
 	path = Experience-ErrorPages
 	url = https://github.com/HZKnight/Experience-ErrorPages
 	branch = develop
+[submodule "fanKounter"]
+	path = fanKounter
+	url = https://github.com/HZKnight/fanKounter
+	branch = develop

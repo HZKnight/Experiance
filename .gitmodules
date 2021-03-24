@@ -1,0 +1,12 @@
+[submodule "Experience-CORE"]
+	path = Experience-CORE
+	url = https://github.com/HZKnight/Experience-CORE
+	branch = develop
+[submodule "Experience-GuestBook"]
+	path = Experience-GuestBook
+	url = https://github.com/HZKnight/Experience-GuestBook
+	branch = develop
+[submodule "Experience-ErrorPages"]
+	path = Experience-ErrorPages
+	url = https://github.com/HZKnight/Experience-ErrorPages
+	branch = develop

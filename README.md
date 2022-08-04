@@ -13,4 +13,4 @@ Main repository of Experience Project
 
 | Project | Verison |
 |---------|---------|
-| CORE    |[(https://img.shields.io/github/release/HZKnight/Experience-CORE.svg)]|
+| CORE    |![Release](https://img.shields.io/github/release/HZKnight/Experience-CORE.svg)|

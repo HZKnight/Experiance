@@ -1,4 +1,5 @@
 # Experience
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 Licences
 -------------------------
@@ -11,9 +12,9 @@ Descriprion
 Main repository of Experience Project
 
 
-| Project | Stable |
-|---------|---------|
-| CORE    |![Release](https://img.shields.io/github/release/HZKnight/Experience-CORE.svg)|
-| GuestBook |![Release](https://img.shields.io/github/release/HZKnight/Experience-GuestBook.svg)|
-| ErrorPages |![Release](https://img.shields.io/github/release/HZKnight/Experience-ErrorPages.svg)|
-| fanKounter |![Release](https://img.shields.io/github/release/HZKnight/fanKounter.svg)|
+| Project |  Stable  |  Unstable  | Licence | Issues |
+|---------|----------|------------|---------|--------|
+| Experience CORE |![Release](https://img.shields.io/github/release/HZKnight/Experience-CORE.svg)|![Pre-release](https://img.shields.io/github/tag-pre/HZKnight/Experience-CORE.svg?label=pre-release)|![Licence](https://img.shields.io/github/license/HZKnight/Experience-CORE.svg)|![Issue](https://img.shields.io/github/issues/HZKnight/Experience-CORE.svg)|
+| Experience GuestBook |![Release](https://img.shields.io/github/release/HZKnight/Experience-GuestBook.svg)|![Pre-release](https://img.shields.io/github/tag-pre/HZKnight/Experience-GuestBook.svg?label=pre-release)|![Licence](https://img.shields.io/github/license/HZKnight/Experience-GuestBook.svg)|![Issue](https://img.shields.io/github/issues/HZKnight/Experience-GuestBook.svg)|
+| Experience ErrorPages |![Release](https://img.shields.io/github/release/HZKnight/Experience-ErrorPages.svg)|![Pre-release](https://img.shields.io/github/tag-pre/HZKnight/Experience-ErrorPages.svg?label=pre-release)|![Licence](https://img.shields.io/github/license/HZKnight/Experience-ErrorPages.svg)|![Issue](https://img.shields.io/github/issues/HZKnight/Experience-ErrorPages.svg)|
+| fanKounter |![Release](https://img.shields.io/github/release/HZKnight/fanKounter.svg)|![Pre-release](https://img.shields.io/github/tag-pre/HZKnight/fanKounter.svg?label=pre-release)|![Licence](https://img.shields.io/github/license/HZKnight/fanKounter.svg)|![Issue](https://img.shields.io/github/issues/HZKnight/fanKounter.svg)|

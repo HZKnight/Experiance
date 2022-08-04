@@ -11,6 +11,9 @@ Descriprion
 Main repository of Experience Project
 
 
-| Project | Verison |
+| Project | Stable |
 |---------|---------|
 | CORE    |![Release](https://img.shields.io/github/release/HZKnight/Experience-CORE.svg)|
+| GuestBook |![Release](https://img.shields.io/github/release/HZKnight/Experience-GuestBook.svg)|
+| ErrorPages |![Release](https://img.shields.io/github/release/HZKnight/Experience-ErrorPages.svg)|
+| fanKounter |![Release](https://img.shields.io/github/release/HZKnight/fanKounter.svg)|

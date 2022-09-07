@@ -2,7 +2,7 @@
 	path = Experience-CORE
 	url = https://github.com/HZKnight/Experience-CORE
 	branch = develop
-[submodule "eXperience-GuestBook"]
+[submodule "Experience-GuestBook"]
 	path = eXperience-GuestBook
 	url = https://github.com/HZKnight/eXperience-GuestBook
 	branch = develop
